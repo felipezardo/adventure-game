@@ -46,5 +46,5 @@ To prevent the terminal from closing immediately after the game ends, a final `i
 - Python 3.x
 - No additional libraries are required to play this game.
 
-## Example of Gameplay
+
 
